@@ -1,2 +1,2 @@
 "This is my first Git activity.:
-This edit is amde from Github
+This edit is made from Github
